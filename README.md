@@ -1,5 +1,6 @@
-## Use Case: Trip Management with Neo4j
+# Use Case: Trip Management with Neo4j
 
-# ToDo:
+## ToDo:
 - Edit README.md
 - Think of 5 scenarios for this usecase
+- Init Neo4j to this repository
